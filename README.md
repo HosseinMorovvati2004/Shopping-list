@@ -29,3 +29,13 @@ Enter your choice:
 
 ### If you choose option 1 and enter Apples, the application will respond:
 'Apples' added to the shopping list.
+
+### If you choose option 2 and enter Apples, the application will respond:
+'Apples' removed from the shopping list.
+
+### If you choose option 3, the application will respond:
+Shopping List:
+Apples
+
+### If you choose option 4, the application will respond:
+Goodbye!

@@ -27,5 +27,5 @@ Options:
 4. Exit
 Enter your choice:
 
-## If you choose option 1 and enter Apples, the application will respond:
+### If you choose option 1 and enter Apples, the application will respond:
 'Apples' added to the shopping list.
